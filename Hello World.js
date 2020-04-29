@@ -1,5 +1,5 @@
 function changeColor() {
-    let text = document.getElementById("h1_change");
+    let text = document.getElementById("js-click");
     text.style.color = "blue";
     text.style.fontFamily = "Comic Sans MS";
     text.style.backgroundColor = "yellow";
